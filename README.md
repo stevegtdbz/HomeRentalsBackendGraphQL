@@ -7,4 +7,4 @@
 
 <h2>Run project</h2>
 <p>npm run dev</p>
-<span>Above command will run project in a "watch mode". Will also open Prisma Studio on your browser.</span>
+<span>Above command will run project in "watch mode". Will also open Prisma Studio for an easier entries lookup on the db.</span>
