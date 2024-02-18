@@ -1,9 +1,8 @@
 <h1>Home Rentals Backend</h1>
-<p>Node.js / GraphQL / Prisma</p>
+<p>Node.js / GraphQL / Prisma (SQLite)</p>
 
 <h2>Setup Project</h2>
-<ul>
-    <li>Clone project</li>
-    <li>npm run init</li>
-    <li>npm run dev</li>
-</ul>
+<p>npm run init</p>
+
+<h2>Run project</h2>
+<p>npm run dev</p>
