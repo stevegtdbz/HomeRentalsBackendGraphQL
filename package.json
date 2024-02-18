@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "init": "npm i && npx prisma migrate dev --name init",
-    "dev": "npx tsc -w & nodemon ./dist/src/index.js & npx prisma studio"
+    "init": "npm i && npx prisma migrate dev --name init && npx tsc",
+    "dev": "npx tsc -w & node ./dist/src/index.js & npx prisma studio"
   },
   "author": "",
   "license": "ISC",
