@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "init": "npm i && npx prisma migrate dev --name init",
-    "dev": "npx tsc -w & nodemon dist/src/index.js & npx prisma studio"
+    "dev": "npx tsc -w & nodemon ./dist/src/index.js & npx prisma studio"
   },
   "author": "",
   "license": "ISC",
